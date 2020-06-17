@@ -1,5 +1,0 @@
-1 复习生成模型 做一个古诗生成器
-2 复习下分类模型  用bi_lstm的思路实现银行摘要分类
-3 学习基于attention的 seq2seq模型
-4 找一个基于bert的fine-turn学习 并基于bert fine-turn重新来实现银行摘要分类
-5 找个天池有奖金的nlp比赛做一做

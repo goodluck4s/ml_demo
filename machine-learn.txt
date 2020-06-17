@@ -1,2 +1,0 @@
-1 学 xgboost  基于xgboost来做幸福感比赛
-2 用gbdt实现一版幸福感比赛
