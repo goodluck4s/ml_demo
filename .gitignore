@@ -1,3 +1,13 @@
+/src/chinese_wwm_ext_pytorch
+/.idea
+/train_record
+/src/to_model
+/src/tmp
+/src/predict_res
+/src/submit_sample
+/src/pre_trained_bert
+/bert_ptfh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
